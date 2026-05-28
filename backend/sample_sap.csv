@@ -1,0 +1,4 @@
+category,activity_value,unit,scope
+diesel,500,L,scope_1
+diesel,-100,L,scope_1
+diesel,200000,L,scope_1

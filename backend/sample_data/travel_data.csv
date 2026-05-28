@@ -1,0 +1,4 @@
+employee_id,travel_type,origin,destination,scope,category,activity_value,unit
+EMP001,flight,JFK,LHR,scope_3,flight,5567,km
+EMP002,flight,SFO,FRA,scope_3,flight,9100,km
+EMP003,taxi,, ,scope_3,flight,-100,km

@@ -1,0 +1,4 @@
+meter_id,billing_period_start,billing_period_end,tariff,scope,category,activity_value,unit
+MTR001,2026-04-01,2026-04-30,industrial_peak,scope_2,electricity,12000,kWh
+MTR002,2026-04-15,2026-05-14,commercial_standard,scope_2,electricity,8900,kWh
+MTR003,2026-05-01,2026-05-31,industrial_peak,scope_2,electricity,-200,kWh

@@ -1,0 +1,5 @@
+Werk,Kraftstoff,Menge,Einheit,Datum,scope,category,activity_value,unit
+PLT01,Diesel,500,L,2026-05-01,scope_1,diesel,500,L
+PLT02,Benzin,320,L,2026-05-02,scope_1,diesel,320,L
+PLT03,Diesel,-50,L,2026-05-03,scope_1,diesel,-50,L
+PLT04,Diesel,200000,L,2026-05-04,scope_1,diesel,200000,L
